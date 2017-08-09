@@ -1,6 +1,10 @@
-# tensorflow r1.0.0
+# tensorflow r1.0.0 while python2.7
 ```
-pip inst1all --ignore-installed --upgrade https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow-1.0.0-cp27-none-linux_x86_64.whl
+pip install --ignore-installed --upgrade https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow-1.0.0-cp27-none-linux_x86_64.whl
+```
+# tensorflow r1.2.1 while python3.4
+```
+pip3 install --ignore-installed --upgrade https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow-1.2.1-cp34-cp34m-linux_x86_64.whl
 ```
 
 # Python 3.4.0
@@ -22,3 +26,4 @@ $ sudo apt-get install libssl-dev openssl
 ```
 virtualenv -p /usr/local/bin/python3.4 vir-env
 ```
+reference : http://www.jb51.net/article/101354.htm
