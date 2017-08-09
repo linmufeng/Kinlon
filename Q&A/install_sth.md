@@ -8,9 +8,17 @@ pip3 install --ignore-installed --upgrade https://storage.googleapis.com/tensorf
 ```
 # tensorflow r1.3 while python2.7
 ```
+git clone https://github.com/tensorflow/tensorflow.git
+cd tensorflow
+git checkout r1.3
+```
+install bazel
 
 ```
-
+bazel build --config=opt //tensorflow/tools/pip_package:build_pip_package
+bazel-bin/tensorflow/tools/pip_package/build_pip_package /tmp/tensorflow_pkg
+pip install tensorflow-1.3.0rc2-cp27-cp27mu-linux_x86_64.whl
+```
 
 # Python 3.4.0
 ```
