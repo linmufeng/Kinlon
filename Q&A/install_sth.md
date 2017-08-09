@@ -6,6 +6,11 @@ pip install --ignore-installed --upgrade https://storage.googleapis.com/tensorfl
 ```
 pip3 install --ignore-installed --upgrade https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow-1.2.1-cp34-cp34m-linux_x86_64.whl
 ```
+# tensorflow r1.3 while python2.7
+```
+
+```
+
 
 # Python 3.4.0
 ```
