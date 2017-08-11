@@ -126,4 +126,4 @@ nvidia-smi
 ![nvidia-smi](http://img.blog.csdn.net/20170613161644275?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvWmFmaXJfNDEw/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 # 后记
-现在是2017/08/09 04:08 am， 弄了这么久终于搞定了，非常高兴，接下来继续配环境，然后在5点半左右出去，去天安门看日出。如果对于这篇日志有任何建议和问题，欢迎和我讨论，linmufeng (at) yeah.net
+现在是2017/08/09 04:08 am， 弄了这么久终于搞定了，非常高兴，接下来继续配环境。如果对于这篇日志有任何建议和问题，欢迎和我讨论，linmufeng (at) yeah.net
