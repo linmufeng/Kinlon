@@ -11,6 +11,8 @@ pip3 install --ignore-installed --upgrade https://storage.googleapis.com/tensorf
 git clone https://github.com/tensorflow/tensorflow.git
 cd tensorflow
 git checkout r1.3
+
+./configure
 ```
 install bazel
 
