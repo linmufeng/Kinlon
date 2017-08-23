@@ -19,6 +19,9 @@ install bazel
 ```
 bazel build --config=opt //tensorflow/tools/pip_package:build_pip_package
 bazel-bin/tensorflow/tools/pip_package/build_pip_package /tmp/tensorflow_pkg
+[option: referent download this by terminal command wget LINK] 
+[install protobuf](https://pypi.python.org/pypi/protobuf)
+[install Markdown](https://pypi.python.org/pypi/Markdown)
 pip install tensorflow-1.3.0rc2-cp27-cp27mu-linux_x86_64.whl
 ```
 
